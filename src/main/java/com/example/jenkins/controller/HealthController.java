@@ -17,7 +17,7 @@ public class HealthController {
     public String healthCheck() {
 //        Report report = new Report();
 //        report.setN2(0D);
-        return "SUCCESS";
+        return "SUCCESS2";
 //        return 1000L;
     }
 
